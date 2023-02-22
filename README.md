@@ -12,7 +12,7 @@ This repository provides a ZF FRGen21 4D radar dataset for autonomous driving ob
 ---
 
 ## Introduction
-This data set contains 7,000 frames of 4D millimeter-wave radar data, and camera and lidar data are also collected and calibrated synchro-nously.Scenarios for this dataset include 4 typical scenes:Urban complex traffic scene, parking lot scene, tunnel scene, highway scene.And The category of object detection includes four classes:Car,Bycicle,Pedesrian and Truck_Bus.
+This data set contains 7,000 frames of 4D millimeter-wave radar data, and camera and lidar data are also collected and calibrated synchro-nously.Scenarios for this dataset include 4 typical scenes:Urban complex traffic scene, parking lot scene, tunnel scene, highway scene.And The category of object detection includes four classes:Car,Bicycle,Pedesrian and Truck_Bus.
 
 ## Sensor and Data
 The 4D radar used for our data is ZF FRGEN21 4D radar,It offers high detection performance in four dimensions (range, velocity, azimuth and elevation),can cover the object up to the distance of 200m.  
