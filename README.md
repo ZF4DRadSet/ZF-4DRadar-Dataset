@@ -1,6 +1,6 @@
 # ZF-4DRadar-Dataset                 
 
-This repository provides a 4d radar dataset for autonomous driving object detection.
+This repository provides a ZF FRGen21 4D radar dataset for autonomous driving object detection.
 
 ## Overview
 * Introduction
