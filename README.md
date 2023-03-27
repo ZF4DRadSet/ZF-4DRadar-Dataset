@@ -23,17 +23,7 @@ Our annoated format similiar with kitti dataset,contains the time stamp of the m
 ## Demos
 The demos below shows the object detection effect on the test set in four scenarios.
 
-- urban  
-![Alt Text](https://media.giphy.com/media/a6uwOANOrGBgjMoXTo/giphy.gif)
 
-- parking lot  
-![Alt Text](https://media.giphy.com/media/vRHKGnzb7yXHi0EV2l/giphy.gif)
-
-- tunnel  
-![Alt Text](https://media.giphy.com/media/94vT6yzqhOep57Cq4O/giphy.gif)
-
-- highway  
-![Alt Text](https://media.giphy.com/media/MLM7xI2DhawvC5lRdG/giphy.gif)
 
 ## Data release
 Due to policy, We will make the dataset publicly available in this year.TR
